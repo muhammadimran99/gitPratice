@@ -8,6 +8,8 @@ namespace gitPratice.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
+        "ISB", "FAB", "PINDI", "Cool", "Mild", "Warm", "Balmy", "Hot", "imran", "Abbottabad",
+        "ISB", "FAB", "PINDI", "Cool", "Mild", "Warm", "Balmy", "Hot", "imran", "Abbottabad",
         "ISB", "FAB", "PINDI", "Cool", "Mild", "Warm", "Balmy", "Hot", "imran", "Abbottabad"
     };
 
