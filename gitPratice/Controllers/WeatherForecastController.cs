@@ -11,7 +11,7 @@ namespace gitPratice.Controllers
         "ISB", "FAB", "PINDI", "Cool", "Mild", "Warm", "Balmy", "Hot", "imran", "Pindi",
         "ISB", "FAB", "PINDI", "Cool", "Mild", "Warm", "Balmy", "Hot", "imran", "Pindi",
         "ISB", "FAB", "PINDI", "Cool", "Mild", "Warm", "Balmy", "Hot", "imran", "Pindi",
-        "ISB", "FAB", "PINDI", "Cool", "Mild", "Warm", "Balmy", "Hot", "imran", "India "
+        "ISB", "FAB", "PINDI", "Cool", "Mild", "Warm", "Balmy", "Hot", "imran", "India ",
             "ISB", "FAB", "PINDI", "Cool", "Mild", "Warm", "Balmy", "Hot", "imran", "level to master ",
     };
 
